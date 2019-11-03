@@ -1,0 +1,59 @@
+#secondsleft{
+    text-align: right;
+    padding-right: 40px;
+    color: white;
+}
+
+#timer{
+    text-align: right;
+    padding-right: 30px;
+    color: white;
+}
+
+#navbarrow{
+    background: grey;
+}
+
+#viewhighscores{
+    padding-left: 20px;
+}
+
+#quizheader{
+    text-align: center;
+    font-size: 36;
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+
+#description{
+    text-align: center;
+}
+
+#startbutton{
+    text-align: center;
+    padding-top: 30px;
+}
+
+#answersection{
+    text-align: center;
+}
+
+#choice1{
+    text-align: center;
+}
+
+#choice2{
+    text-align: center;
+}
+
+#choice3{
+    text-align: center;
+}
+
+#choice4{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+}
